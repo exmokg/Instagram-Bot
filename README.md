@@ -82,7 +82,7 @@ For Generating Session after deployment, You Must leave the Variable as blank an
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/Instagram-Bot
+git clone https://github.com/exmokg/Instagram-Bot
 cd Instagram-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
